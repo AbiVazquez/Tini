@@ -42,8 +42,62 @@ a:hover {
 	top: 50px;
 }
 /*FONDO, TEXTO Y CUADROS*/
-.azul{
-	background-color: #D9CBFF;
+.gris{
+	background-color: #DCDCDC;
 	width: 100%;
-	height: 600px;
+	height: 1200px;
+}
+/*CUADRO BLANCO Y GRIS*/
+.blanco{
+	background-color: white;
+	width: 400px;
+	height: 520px;
+	margin-left: 50px;
+}
+.gray{
+	background-color: #C0C0C0;
+	width: 300px;
+	height: 300px;
+	position: relative;
+	top: 25px;
+	left: 35px;
+}
+.tres{
+	font-size: 30px;
+	color: #808080;
+	position: relative;
+	top: 120px;
+	left: 90px;
+}
+.texto{
+	font-family: Roboto;
+	color: #A4A4A4;
+}
+.boton{
+	position: relative;
+	left: 100px;
+	top: 60px;
+}
+/*FOOTER*/
+.negro{
+	background-color: black;
+	width: 100%;
+	height: 50px;
+}
+.top2{
+	position: relative;
+	top: 15px;
+}
+.inline{
+	display: inline;
+	font-family: Arial;
+	color:white;
+	padding: 5px;
+	font-size: small;
+}
+.blue{
+	color: blue;
+}
+.linea {
+	border-right: 1px solid white;
 }
